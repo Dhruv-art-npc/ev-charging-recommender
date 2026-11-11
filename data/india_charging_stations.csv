@@ -1,0 +1,425 @@
+station_id,name,operator,city,state,latitude,longitude,connector_type,power_kw,n_chargers,price_per_kwh,current_load_pct,avg_session_min
+BHO000,EESL Bhopal #1,Ather Grid,Bhopal,Madhya Pradesh,23.31243,77.47844,CCS2,60.0,1,26.66,67.1,53.0
+BHO001,Jio-bp pulse Bhopal #2,Ather Grid,Bhopal,Madhya Pradesh,23.32146,77.46705,Type2,7.4,4,21.52,43.3,33.0
+BHO002,Fortum Bhopal #3,Tata Power,Bhopal,Madhya Pradesh,23.32139,77.40911,CCS2,30.0,5,14.96,82.8,56.0
+BHO003,Jio-bp pulse Bhopal #4,Statiq,Bhopal,Madhya Pradesh,23.29716,77.43818,CHAdeMO,60.0,1,22.56,65.9,59.0
+BHO004,Fortum Bhopal #5,ChargeZone,Bhopal,Madhya Pradesh,23.30302,77.49163,CHAdeMO,22.0,1,16.66,27.0,48.0
+BHO005,Statiq Bhopal #6,Jio-bp pulse,Bhopal,Madhya Pradesh,23.17792,77.45062,Type2,30.0,5,21.27,39.1,35.0
+BHO006,EESL Bhopal #7,Tata Power,Bhopal,Madhya Pradesh,23.30742,77.41733,Type2,30.0,5,19.31,62.9,52.0
+BHO007,Ather Grid Bhopal #8,Ather Grid,Bhopal,Madhya Pradesh,23.24064,77.51725,CHAdeMO,30.0,5,16.6,52.4,52.0
+BHO008,Ather Grid Bhopal #9,Ather Grid,Bhopal,Madhya Pradesh,23.30969,77.46813,Type2,30.0,1,16.11,26.1,39.0
+BHO009,Tata Power Bhopal #10,Statiq,Bhopal,Madhya Pradesh,23.19554,77.4474,GB/T,60.0,2,22.27,51.8,52.0
+BHO010,ChargeZone Bhopal #11,ChargeZone,Bhopal,Madhya Pradesh,23.29187,77.36627,CCS2,30.0,1,11.26,64.2,41.0
+BHO011,Fortum Bhopal #12,Ather Grid,Bhopal,Madhya Pradesh,23.29355,77.44386,CHAdeMO,22.0,3,15.33,32.6,47.0
+BHO012,Fortum Bhopal #13,Tata Power,Bhopal,Madhya Pradesh,23.16731,77.34279,CCS2,22.0,6,19.8,29.9,59.0
+BHO013,Statiq Bhopal #14,Jio-bp pulse,Bhopal,Madhya Pradesh,23.19455,77.39822,CCS2,60.0,1,25.64,44.2,32.0
+BHO014,Jio-bp pulse Bhopal #15,EESL,Bhopal,Madhya Pradesh,23.21831,77.31138,CCS2,22.0,5,20.07,42.4,47.0
+BHO015,Tata Power Bhopal #16,EESL,Bhopal,Madhya Pradesh,23.18826,77.42515,Type2,30.0,1,16.92,34.7,30.0
+BHO016,Statiq Bhopal #17,EESL,Bhopal,Madhya Pradesh,23.21512,77.34774,GB/T,7.4,4,14.86,54.3,26.0
+BHO017,ChargeZone Bhopal #18,Ather Grid,Bhopal,Madhya Pradesh,23.28185,77.47127,CCS2,120.0,3,19.87,80.3,45.0
+BHO018,Jio-bp pulse Bhopal #19,Statiq,Bhopal,Madhya Pradesh,23.20299,77.38352,GB/T,30.0,3,10.3,72.0,56.0
+BHO019,ChargeZone Bhopal #20,Ather Grid,Bhopal,Madhya Pradesh,23.14267,77.37856,CCS2,7.4,2,19.23,64.5,52.0
+BHO020,EESL Bhopal #21,Fortum,Bhopal,Madhya Pradesh,23.17695,77.34504,CCS2,7.4,4,15.19,72.2,53.0
+BHO021,Statiq Bhopal #22,Fortum,Bhopal,Madhya Pradesh,23.28685,77.40164,GB/T,22.0,2,23.1,22.3,27.0
+IND000,Fortum Indore #1,Fortum,Indore,Madhya Pradesh,22.73168,75.96824,GB/T,30.0,6,22.51,48.9,36.0
+IND001,ChargeZone Indore #2,EESL,Indore,Madhya Pradesh,22.79704,75.88771,Type2,60.0,5,16.67,80.3,33.0
+IND002,Tata Power Indore #3,Jio-bp pulse,Indore,Madhya Pradesh,22.70703,75.83088,CCS2,7.4,4,22.24,24.7,36.0
+IND003,ChargeZone Indore #4,Fortum,Indore,Madhya Pradesh,22.71924,75.84626,GB/T,60.0,1,16.22,19.9,49.0
+IND004,ChargeZone Indore #5,Ather Grid,Indore,Madhya Pradesh,22.66057,75.77238,CHAdeMO,7.4,2,21.26,63.7,51.0
+IND005,Ather Grid Indore #6,Tata Power,Indore,Madhya Pradesh,22.7538,75.82381,GB/T,7.4,2,16.84,59.7,58.0
+IND006,Fortum Indore #7,Fortum,Indore,Madhya Pradesh,22.70393,75.87467,CCS2,22.0,4,11.48,20.5,40.0
+IND007,Statiq Indore #8,EESL,Indore,Madhya Pradesh,22.65987,75.83758,CHAdeMO,120.0,3,23.99,11.3,29.0
+IND008,Statiq Indore #9,Jio-bp pulse,Indore,Madhya Pradesh,22.56929,75.84631,Type2,60.0,4,25.15,55.2,39.0
+IND009,Fortum Indore #10,ChargeZone,Indore,Madhya Pradesh,22.713,75.73466,CCS2,22.0,3,13.47,27.7,51.0
+IND010,Fortum Indore #11,Tata Power,Indore,Madhya Pradesh,22.63759,75.83192,CCS2,60.0,1,24.55,33.3,30.0
+IND011,EESL Indore #12,Statiq,Indore,Madhya Pradesh,22.69327,75.84833,CHAdeMO,120.0,1,13.3,14.2,31.0
+IND012,Ather Grid Indore #13,EESL,Indore,Madhya Pradesh,22.79049,75.86858,GB/T,7.4,2,17.06,75.6,55.0
+IND013,Ather Grid Indore #14,Statiq,Indore,Madhya Pradesh,22.91659,76.00422,Type2,7.4,4,15.83,13.7,38.0
+IND014,Fortum Indore #15,Tata Power,Indore,Madhya Pradesh,22.80298,75.87609,CHAdeMO,30.0,6,11.39,73.3,57.0
+IND015,ChargeZone Indore #16,Jio-bp pulse,Indore,Madhya Pradesh,22.73806,75.86137,Type2,120.0,5,14.88,50.2,43.0
+IND016,Jio-bp pulse Indore #17,Ather Grid,Indore,Madhya Pradesh,22.70302,75.87006,CCS2,60.0,2,14.96,45.8,40.0
+IND017,ChargeZone Indore #18,ChargeZone,Indore,Madhya Pradesh,22.78007,75.8347,CHAdeMO,22.0,3,19.6,32.3,58.0
+IND018,Jio-bp pulse Indore #19,Ather Grid,Indore,Madhya Pradesh,22.80202,75.88844,GB/T,120.0,6,22.14,70.3,44.0
+IND019,Tata Power Indore #20,ChargeZone,Indore,Madhya Pradesh,22.78887,75.77522,CHAdeMO,30.0,5,22.05,19.9,47.0
+IND020,EESL Indore #21,Jio-bp pulse,Indore,Madhya Pradesh,22.77075,75.74766,Type2,7.4,1,23.42,70.1,46.0
+IND021,Fortum Indore #22,Jio-bp pulse,Indore,Madhya Pradesh,22.64864,75.85999,Type2,60.0,4,14.33,56.2,31.0
+JAB000,Tata Power Jabalpur #1,EESL,Jabalpur,Madhya Pradesh,23.02111,80.00771,Type2,30.0,5,21.19,46.9,46.0
+JAB001,Jio-bp pulse Jabalpur #2,Tata Power,Jabalpur,Madhya Pradesh,23.07079,80.08972,CHAdeMO,120.0,4,18.86,68.1,48.0
+JAB002,Jio-bp pulse Jabalpur #3,Fortum,Jabalpur,Madhya Pradesh,23.19791,80.00532,Type2,22.0,3,14.4,21.8,30.0
+JAB003,Ather Grid Jabalpur #4,Ather Grid,Jabalpur,Madhya Pradesh,23.17275,80.0901,CCS2,120.0,4,26.11,68.5,42.0
+JAB004,EESL Jabalpur #5,Fortum,Jabalpur,Madhya Pradesh,23.24148,80.04533,CHAdeMO,22.0,1,21.91,57.8,29.0
+JAB005,Tata Power Jabalpur #6,EESL,Jabalpur,Madhya Pradesh,23.18905,80.07807,Type2,30.0,5,14.14,44.4,40.0
+JAB006,Ather Grid Jabalpur #7,Fortum,Jabalpur,Madhya Pradesh,23.20084,79.88751,CCS2,22.0,6,22.31,31.3,54.0
+JAB007,EESL Jabalpur #8,Fortum,Jabalpur,Madhya Pradesh,23.13513,79.99608,Type2,7.4,1,22.56,12.2,33.0
+JAB008,Jio-bp pulse Jabalpur #9,Jio-bp pulse,Jabalpur,Madhya Pradesh,23.23894,79.95884,CCS2,7.4,4,10.51,10.4,27.0
+JAB009,Fortum Jabalpur #10,Jio-bp pulse,Jabalpur,Madhya Pradesh,23.07775,79.82305,CCS2,30.0,1,21.21,79.6,52.0
+GWA000,Jio-bp pulse Gwalior #1,Jio-bp pulse,Gwalior,Madhya Pradesh,26.21346,78.27755,CHAdeMO,30.0,4,21.92,21.6,51.0
+GWA001,Tata Power Gwalior #2,Statiq,Gwalior,Madhya Pradesh,26.27455,78.30325,Type2,22.0,4,10.76,56.2,26.0
+GWA002,Ather Grid Gwalior #3,EESL,Gwalior,Madhya Pradesh,26.28328,78.14045,Type2,60.0,2,26.72,44.4,52.0
+GWA003,Fortum Gwalior #4,EESL,Gwalior,Madhya Pradesh,26.24363,78.27525,CHAdeMO,30.0,2,18.09,62.5,48.0
+GWA004,Statiq Gwalior #5,Statiq,Gwalior,Madhya Pradesh,26.20912,78.20721,GB/T,120.0,3,14.67,20.1,35.0
+GWA005,EESL Gwalior #6,ChargeZone,Gwalior,Madhya Pradesh,26.24161,78.18099,GB/T,22.0,3,15.72,26.3,46.0
+GWA006,Fortum Gwalior #7,Tata Power,Gwalior,Madhya Pradesh,26.19778,78.31841,CCS2,22.0,2,18.01,52.4,50.0
+GWA007,EESL Gwalior #8,EESL,Gwalior,Madhya Pradesh,26.26164,78.15905,CCS2,30.0,4,16.04,57.0,38.0
+UJJ000,Jio-bp pulse Ujjain #1,Jio-bp pulse,Ujjain,Madhya Pradesh,23.18291,75.82915,GB/T,30.0,4,17.28,70.0,36.0
+UJJ001,ChargeZone Ujjain #2,Ather Grid,Ujjain,Madhya Pradesh,23.21937,75.83509,GB/T,60.0,6,13.78,31.0,37.0
+UJJ002,Jio-bp pulse Ujjain #3,ChargeZone,Ujjain,Madhya Pradesh,23.0483,75.76501,CHAdeMO,22.0,5,21.99,37.9,30.0
+UJJ003,EESL Ujjain #4,Tata Power,Ujjain,Madhya Pradesh,22.96898,75.75046,CCS2,30.0,6,20.81,33.3,49.0
+UJJ004,Jio-bp pulse Ujjain #5,ChargeZone,Ujjain,Madhya Pradesh,23.18346,75.78247,Type2,60.0,2,20.35,22.3,31.0
+UJJ005,Fortum Ujjain #6,Fortum,Ujjain,Madhya Pradesh,23.10859,75.72636,GB/T,60.0,6,14.98,43.6,39.0
+SAG000,Jio-bp pulse Sagar #1,Jio-bp pulse,Sagar,Madhya Pradesh,23.85688,78.84733,GB/T,7.4,1,12.53,78.0,27.0
+SAG001,Statiq Sagar #2,ChargeZone,Sagar,Madhya Pradesh,23.80109,78.81815,Type2,22.0,3,11.18,28.3,55.0
+SAG002,Ather Grid Sagar #3,EESL,Sagar,Madhya Pradesh,23.82106,78.72666,Type2,30.0,1,15.13,50.5,37.0
+SAG003,ChargeZone Sagar #4,Ather Grid,Sagar,Madhya Pradesh,23.85955,78.88026,CCS2,60.0,4,25.73,54.0,55.0
+SAG004,EESL Sagar #5,Ather Grid,Sagar,Madhya Pradesh,23.80284,78.67558,CCS2,22.0,3,22.84,57.3,31.0
+DEL000,ChargeZone Delhi #1,Statiq,Delhi,Delhi,28.60272,77.1633,Type2,22.0,3,14.31,54.9,25.0
+DEL001,Statiq Delhi #2,EESL,Delhi,Delhi,28.62719,77.10716,GB/T,22.0,4,16.69,67.1,57.0
+DEL002,Statiq Delhi #3,Fortum,Delhi,Delhi,28.59334,77.13395,CCS2,60.0,1,23.25,43.0,44.0
+DEL003,ChargeZone Delhi #4,Fortum,Delhi,Delhi,28.52833,77.22643,GB/T,30.0,5,20.5,36.0,29.0
+DEL004,Ather Grid Delhi #5,Jio-bp pulse,Delhi,Delhi,28.57746,77.26588,GB/T,7.4,3,23.69,40.9,53.0
+DEL005,Statiq Delhi #6,Ather Grid,Delhi,Delhi,28.56934,77.24688,CHAdeMO,7.4,5,10.52,38.0,27.0
+DEL006,Fortum Delhi #7,EESL,Delhi,Delhi,28.51424,77.24024,CCS2,7.4,6,20.35,70.1,27.0
+DEL007,Tata Power Delhi #8,EESL,Delhi,Delhi,28.58305,77.21125,GB/T,22.0,4,19.48,12.2,39.0
+DEL008,EESL Delhi #9,EESL,Delhi,Delhi,28.54106,77.04011,CHAdeMO,60.0,3,24.95,32.4,46.0
+DEL009,Tata Power Delhi #10,Statiq,Delhi,Delhi,28.60061,77.13106,Type2,22.0,1,14.79,63.8,53.0
+DEL010,EESL Delhi #11,ChargeZone,Delhi,Delhi,28.59029,77.19906,CCS2,120.0,4,26.97,62.6,46.0
+DEL011,Ather Grid Delhi #12,Fortum,Delhi,Delhi,28.74325,77.19681,CCS2,22.0,3,10.94,25.1,26.0
+DEL012,Fortum Delhi #13,EESL,Delhi,Delhi,28.69878,77.18633,GB/T,30.0,6,20.53,50.6,35.0
+DEL013,ChargeZone Delhi #14,Statiq,Delhi,Delhi,28.5008,77.24274,CCS2,60.0,4,23.39,54.3,48.0
+DEL014,Jio-bp pulse Delhi #15,Statiq,Delhi,Delhi,28.67241,77.23345,CCS2,22.0,6,13.97,52.1,53.0
+DEL015,EESL Delhi #16,Ather Grid,Delhi,Delhi,28.65766,77.29662,CHAdeMO,60.0,5,24.4,77.7,53.0
+DEL016,Statiq Delhi #17,Ather Grid,Delhi,Delhi,28.71879,77.17688,CCS2,22.0,6,17.18,42.5,26.0
+DEL017,Jio-bp pulse Delhi #18,Tata Power,Delhi,Delhi,28.55913,77.04658,CHAdeMO,120.0,1,19.37,48.7,36.0
+DEL018,Jio-bp pulse Delhi #19,Tata Power,Delhi,Delhi,28.60991,77.28244,GB/T,7.4,5,12.9,32.7,39.0
+DEL019,Statiq Delhi #20,Tata Power,Delhi,Delhi,28.66302,77.13654,CCS2,30.0,1,17.11,46.7,37.0
+DEL020,Ather Grid Delhi #21,Jio-bp pulse,Delhi,Delhi,28.54234,77.20227,CCS2,30.0,2,13.39,46.0,49.0
+DEL021,Jio-bp pulse Delhi #22,ChargeZone,Delhi,Delhi,28.66761,77.12919,CHAdeMO,22.0,3,19.96,21.3,27.0
+DEL022,Tata Power Delhi #23,Fortum,Delhi,Delhi,28.62497,77.26344,GB/T,7.4,1,11.55,56.5,33.0
+DEL023,Statiq Delhi #24,EESL,Delhi,Delhi,28.48371,77.21593,CCS2,30.0,6,18.67,22.2,52.0
+DEL024,ChargeZone Delhi #25,Statiq,Delhi,Delhi,28.59295,77.13795,GB/T,60.0,4,26.79,37.1,53.0
+DEL025,Ather Grid Delhi #26,Jio-bp pulse,Delhi,Delhi,28.64488,77.29648,CHAdeMO,22.0,3,14.45,15.9,26.0
+DEL026,ChargeZone Delhi #27,Tata Power,Delhi,Delhi,28.57497,77.11941,GB/T,22.0,5,20.34,33.8,56.0
+DEL027,Statiq Delhi #28,Tata Power,Delhi,Delhi,28.6281,77.13246,CCS2,30.0,2,17.1,84.4,25.0
+DEL028,Ather Grid Delhi #29,Fortum,Delhi,Delhi,28.67649,77.2098,CHAdeMO,7.4,6,22.33,50.2,47.0
+DEL029,Jio-bp pulse Delhi #30,Tata Power,Delhi,Delhi,28.52638,77.24479,CCS2,22.0,4,21.71,11.4,46.0
+DEL030,Jio-bp pulse Delhi #31,Fortum,Delhi,Delhi,28.61662,77.14985,CCS2,22.0,4,15.55,60.8,50.0
+DEL031,Statiq Delhi #32,Jio-bp pulse,Delhi,Delhi,28.52681,77.18666,GB/T,30.0,4,10.17,69.7,43.0
+DEL032,Fortum Delhi #33,Tata Power,Delhi,Delhi,28.6357,77.18086,CCS2,30.0,5,12.09,82.1,31.0
+DEL033,Fortum Delhi #34,Fortum,Delhi,Delhi,28.63617,77.12765,CCS2,22.0,3,20.27,75.9,38.0
+DEL034,Tata Power Delhi #35,Jio-bp pulse,Delhi,Delhi,28.4268,77.23672,GB/T,30.0,4,11.46,77.8,55.0
+DEL035,Ather Grid Delhi #36,Tata Power,Delhi,Delhi,28.71382,77.33762,CHAdeMO,60.0,1,26.71,38.3,50.0
+DEL036,EESL Delhi #37,ChargeZone,Delhi,Delhi,28.63948,77.43152,CHAdeMO,60.0,4,18.73,55.1,58.0
+DEL037,Tata Power Delhi #38,Statiq,Delhi,Delhi,28.61608,77.2285,Type2,30.0,1,12.28,61.3,37.0
+DEL038,Jio-bp pulse Delhi #39,Statiq,Delhi,Delhi,28.51294,77.20491,CHAdeMO,120.0,6,16.89,25.2,32.0
+DEL039,Tata Power Delhi #40,Ather Grid,Delhi,Delhi,28.61064,77.22852,CCS2,30.0,3,23.43,58.9,42.0
+DEL040,Statiq Delhi #41,Statiq,Delhi,Delhi,28.59843,77.20176,CCS2,7.4,6,22.62,83.8,59.0
+DEL041,EESL Delhi #42,Tata Power,Delhi,Delhi,28.63412,77.29615,CCS2,120.0,4,14.36,73.4,47.0
+DEL042,Ather Grid Delhi #43,Statiq,Delhi,Delhi,28.6166,77.18718,CCS2,30.0,6,18.18,65.1,35.0
+DEL043,Jio-bp pulse Delhi #44,ChargeZone,Delhi,Delhi,28.62108,77.19868,CCS2,22.0,2,23.18,19.0,56.0
+DEL044,ChargeZone Delhi #45,Statiq,Delhi,Delhi,28.53856,77.15638,Type2,7.4,3,16.3,28.4,50.0
+MUM000,EESL Mumbai #1,Fortum,Mumbai,Maharashtra,19.0086,72.91476,Type2,60.0,2,16.43,22.1,58.0
+MUM001,Tata Power Mumbai #2,Jio-bp pulse,Mumbai,Maharashtra,19.06437,73.00945,CHAdeMO,60.0,4,20.51,42.6,30.0
+MUM002,Statiq Mumbai #3,Fortum,Mumbai,Maharashtra,19.15757,72.99302,CCS2,7.4,1,17.76,25.6,34.0
+MUM003,ChargeZone Mumbai #4,Tata Power,Mumbai,Maharashtra,19.09081,72.93975,GB/T,7.4,4,16.51,40.0,44.0
+MUM004,Jio-bp pulse Mumbai #5,Fortum,Mumbai,Maharashtra,19.1028,72.62231,CCS2,22.0,3,12.14,79.0,37.0
+MUM005,Fortum Mumbai #6,ChargeZone,Mumbai,Maharashtra,19.04212,73.0347,CCS2,7.4,5,21.11,25.9,57.0
+MUM006,ChargeZone Mumbai #7,EESL,Mumbai,Maharashtra,19.07351,72.78217,CCS2,30.0,2,10.87,44.4,30.0
+MUM007,Jio-bp pulse Mumbai #8,EESL,Mumbai,Maharashtra,19.09162,72.92088,Type2,22.0,2,20.17,44.6,48.0
+MUM008,Tata Power Mumbai #9,Ather Grid,Mumbai,Maharashtra,19.10844,72.77055,CHAdeMO,30.0,2,19.49,73.5,26.0
+MUM009,ChargeZone Mumbai #10,Fortum,Mumbai,Maharashtra,19.05482,72.8439,CCS2,30.0,2,23.27,37.5,51.0
+MUM010,Fortum Mumbai #11,Ather Grid,Mumbai,Maharashtra,19.12968,72.88618,Type2,30.0,6,15.87,58.5,37.0
+MUM011,Ather Grid Mumbai #12,Ather Grid,Mumbai,Maharashtra,19.07621,72.90151,CCS2,30.0,5,19.18,59.7,26.0
+MUM012,Jio-bp pulse Mumbai #13,Statiq,Mumbai,Maharashtra,19.04095,72.76184,Type2,22.0,2,19.35,19.7,35.0
+MUM013,Statiq Mumbai #14,Statiq,Mumbai,Maharashtra,19.09979,72.89982,Type2,7.4,2,17.59,62.6,58.0
+MUM014,Jio-bp pulse Mumbai #15,Statiq,Mumbai,Maharashtra,19.07568,72.95089,Type2,30.0,6,15.6,61.4,26.0
+MUM015,EESL Mumbai #16,Fortum,Mumbai,Maharashtra,19.14503,72.83866,CCS2,30.0,6,21.96,34.2,44.0
+MUM016,Ather Grid Mumbai #17,EESL,Mumbai,Maharashtra,19.02264,72.81756,CHAdeMO,30.0,6,22.93,73.2,59.0
+MUM017,Fortum Mumbai #18,Jio-bp pulse,Mumbai,Maharashtra,19.08368,73.04886,Type2,60.0,3,16.36,58.4,35.0
+MUM018,Ather Grid Mumbai #19,EESL,Mumbai,Maharashtra,19.06524,72.97948,Type2,22.0,5,22.05,22.6,25.0
+MUM019,Ather Grid Mumbai #20,Jio-bp pulse,Mumbai,Maharashtra,19.17716,72.87229,Type2,22.0,5,11.62,39.3,60.0
+MUM020,Fortum Mumbai #21,Statiq,Mumbai,Maharashtra,19.16833,73.07434,GB/T,22.0,6,23.73,15.2,30.0
+MUM021,Statiq Mumbai #22,Statiq,Mumbai,Maharashtra,19.08373,72.84912,CHAdeMO,60.0,1,24.66,23.2,40.0
+MUM022,Statiq Mumbai #23,Ather Grid,Mumbai,Maharashtra,19.13165,72.89033,CCS2,30.0,6,23.99,48.7,28.0
+MUM023,Tata Power Mumbai #24,Fortum,Mumbai,Maharashtra,19.16294,72.95681,CCS2,60.0,3,13.72,60.4,37.0
+MUM024,EESL Mumbai #25,Jio-bp pulse,Mumbai,Maharashtra,19.02038,72.96895,CCS2,60.0,2,23.48,70.1,42.0
+MUM025,Statiq Mumbai #26,Statiq,Mumbai,Maharashtra,19.08153,72.95706,CCS2,60.0,1,20.47,15.1,27.0
+MUM026,Tata Power Mumbai #27,Ather Grid,Mumbai,Maharashtra,19.05949,72.86481,CCS2,7.4,4,21.52,22.6,30.0
+MUM027,Statiq Mumbai #28,Jio-bp pulse,Mumbai,Maharashtra,19.05758,72.82969,CCS2,60.0,1,18.52,65.3,34.0
+MUM028,Statiq Mumbai #29,Ather Grid,Mumbai,Maharashtra,19.07627,72.99802,CCS2,60.0,3,16.07,25.6,51.0
+MUM029,Jio-bp pulse Mumbai #30,Tata Power,Mumbai,Maharashtra,19.0491,72.94903,CCS2,7.4,5,15.58,84.3,30.0
+MUM030,Statiq Mumbai #31,Ather Grid,Mumbai,Maharashtra,19.08374,72.87779,GB/T,30.0,6,22.22,24.4,33.0
+MUM031,Fortum Mumbai #32,ChargeZone,Mumbai,Maharashtra,18.97049,72.80874,Type2,30.0,4,21.6,63.3,26.0
+MUM032,Fortum Mumbai #33,EESL,Mumbai,Maharashtra,18.94243,72.86952,CCS2,7.4,3,20.61,72.0,45.0
+MUM033,Jio-bp pulse Mumbai #34,Statiq,Mumbai,Maharashtra,19.10522,72.78527,CHAdeMO,22.0,4,19.47,15.0,25.0
+MUM034,EESL Mumbai #35,Fortum,Mumbai,Maharashtra,19.10158,72.92061,GB/T,22.0,6,16.58,45.7,58.0
+MUM035,ChargeZone Mumbai #36,Statiq,Mumbai,Maharashtra,19.21323,72.79174,CCS2,7.4,5,13.0,17.4,32.0
+MUM036,Ather Grid Mumbai #37,Statiq,Mumbai,Maharashtra,19.06883,72.83216,CCS2,30.0,2,15.05,14.1,38.0
+MUM037,Fortum Mumbai #38,EESL,Mumbai,Maharashtra,19.04176,72.86468,CCS2,22.0,6,11.4,18.1,29.0
+MUM038,ChargeZone Mumbai #39,Tata Power,Mumbai,Maharashtra,19.16875,72.87459,CCS2,30.0,5,17.36,84.8,27.0
+MUM039,Tata Power Mumbai #40,ChargeZone,Mumbai,Maharashtra,19.03563,72.91687,GB/T,30.0,5,12.38,83.4,42.0
+MUM040,ChargeZone Mumbai #41,Fortum,Mumbai,Maharashtra,19.08206,72.90059,Type2,30.0,4,11.79,34.1,32.0
+MUM041,Jio-bp pulse Mumbai #42,Fortum,Mumbai,Maharashtra,19.00591,72.99555,Type2,7.4,3,16.04,57.5,57.0
+MUM042,Jio-bp pulse Mumbai #43,ChargeZone,Mumbai,Maharashtra,18.96684,72.94541,GB/T,120.0,4,19.47,59.4,44.0
+MUM043,Fortum Mumbai #44,ChargeZone,Mumbai,Maharashtra,19.0733,72.99948,CCS2,22.0,1,20.12,39.2,33.0
+MUM044,Jio-bp pulse Mumbai #45,Jio-bp pulse,Mumbai,Maharashtra,19.06792,72.81918,GB/T,30.0,6,18.36,60.2,27.0
+PUN000,Jio-bp pulse Pune #1,ChargeZone,Pune,Maharashtra,18.54651,73.81305,GB/T,120.0,1,13.54,61.0,45.0
+PUN001,ChargeZone Pune #2,Jio-bp pulse,Pune,Maharashtra,18.36846,73.71571,CCS2,7.4,3,10.08,69.0,37.0
+PUN002,Fortum Pune #3,ChargeZone,Pune,Maharashtra,18.57809,73.86858,Type2,60.0,1,23.85,47.2,44.0
+PUN003,Tata Power Pune #4,Fortum,Pune,Maharashtra,18.4741,73.77568,GB/T,120.0,4,25.29,38.1,29.0
+PUN004,Ather Grid Pune #5,Ather Grid,Pune,Maharashtra,18.50282,73.68305,Type2,60.0,4,18.95,37.7,40.0
+PUN005,Fortum Pune #6,Jio-bp pulse,Pune,Maharashtra,18.47314,73.88498,Type2,7.4,2,22.24,11.8,43.0
+PUN006,Ather Grid Pune #7,EESL,Pune,Maharashtra,18.46716,73.81745,CCS2,30.0,3,18.66,13.0,41.0
+PUN007,Fortum Pune #8,Statiq,Pune,Maharashtra,18.51173,73.90864,CHAdeMO,30.0,3,11.36,81.0,39.0
+PUN008,ChargeZone Pune #9,Fortum,Pune,Maharashtra,18.5532,73.90275,GB/T,60.0,6,21.88,42.2,40.0
+PUN009,Statiq Pune #10,Ather Grid,Pune,Maharashtra,18.44813,74.01839,Type2,7.4,1,19.88,32.6,57.0
+PUN010,ChargeZone Pune #11,Fortum,Pune,Maharashtra,18.42997,73.88138,CCS2,7.4,6,12.18,50.1,57.0
+PUN011,EESL Pune #12,ChargeZone,Pune,Maharashtra,18.49395,73.92084,CCS2,30.0,6,14.35,24.2,35.0
+PUN012,Statiq Pune #13,Tata Power,Pune,Maharashtra,18.60759,73.92387,CHAdeMO,120.0,5,26.66,73.2,58.0
+PUN013,Fortum Pune #14,Jio-bp pulse,Pune,Maharashtra,18.55933,73.86911,GB/T,7.4,6,23.61,62.9,42.0
+PUN014,Fortum Pune #15,ChargeZone,Pune,Maharashtra,18.39775,73.86329,CCS2,30.0,1,11.08,68.5,41.0
+PUN015,Jio-bp pulse Pune #16,EESL,Pune,Maharashtra,18.48242,73.88905,GB/T,120.0,2,26.66,26.4,43.0
+PUN016,Fortum Pune #17,Fortum,Pune,Maharashtra,18.60318,73.83402,CCS2,120.0,1,13.89,24.6,45.0
+PUN017,Statiq Pune #18,Ather Grid,Pune,Maharashtra,18.51978,73.89262,CHAdeMO,120.0,5,21.65,74.8,58.0
+PUN018,Tata Power Pune #19,Tata Power,Pune,Maharashtra,18.67645,73.92638,Type2,22.0,6,15.3,67.8,44.0
+PUN019,EESL Pune #20,ChargeZone,Pune,Maharashtra,18.53309,73.7929,CCS2,22.0,3,13.2,64.1,31.0
+PUN020,Jio-bp pulse Pune #21,Statiq,Pune,Maharashtra,18.45963,73.74222,CHAdeMO,120.0,4,20.11,42.8,60.0
+PUN021,Ather Grid Pune #22,Ather Grid,Pune,Maharashtra,18.47388,73.88194,Type2,30.0,4,13.19,57.8,27.0
+PUN022,Tata Power Pune #23,Ather Grid,Pune,Maharashtra,18.49894,73.81517,Type2,120.0,1,24.51,58.6,52.0
+PUN023,Ather Grid Pune #24,EESL,Pune,Maharashtra,18.68137,73.86305,CCS2,30.0,3,19.28,60.4,59.0
+PUN024,EESL Pune #25,ChargeZone,Pune,Maharashtra,18.5896,73.85952,CCS2,22.0,5,16.44,26.2,51.0
+PUN025,ChargeZone Pune #26,Statiq,Pune,Maharashtra,18.51946,73.69847,CCS2,7.4,6,13.82,18.3,58.0
+PUN026,Statiq Pune #27,Statiq,Pune,Maharashtra,18.5519,73.89613,CCS2,22.0,6,20.65,63.1,31.0
+PUN027,Jio-bp pulse Pune #28,Ather Grid,Pune,Maharashtra,18.54339,73.86921,CCS2,22.0,2,11.78,51.3,50.0
+NAG000,ChargeZone Nagpur #1,Ather Grid,Nagpur,Maharashtra,21.1684,79.00769,CCS2,7.4,5,16.28,71.5,33.0
+NAG001,Statiq Nagpur #2,Statiq,Nagpur,Maharashtra,21.13098,79.12311,Type2,22.0,2,20.52,33.5,35.0
+NAG002,Tata Power Nagpur #3,Ather Grid,Nagpur,Maharashtra,21.20849,78.94838,GB/T,7.4,2,20.68,79.8,42.0
+NAG003,Tata Power Nagpur #4,Fortum,Nagpur,Maharashtra,21.05704,78.89572,CHAdeMO,30.0,6,22.72,69.4,41.0
+NAG004,EESL Nagpur #5,Tata Power,Nagpur,Maharashtra,20.99637,79.13141,CHAdeMO,7.4,3,17.95,51.4,54.0
+NAG005,EESL Nagpur #6,Statiq,Nagpur,Maharashtra,21.19825,78.97009,Type2,7.4,6,22.22,76.7,36.0
+NAG006,Jio-bp pulse Nagpur #7,Statiq,Nagpur,Maharashtra,21.24127,79.07163,CHAdeMO,30.0,3,17.8,32.2,31.0
+NAG007,Jio-bp pulse Nagpur #8,Tata Power,Nagpur,Maharashtra,21.10508,79.06262,CCS2,22.0,6,19.54,24.4,31.0
+NAG008,Fortum Nagpur #9,Statiq,Nagpur,Maharashtra,21.11836,79.09799,CCS2,60.0,5,24.4,27.6,35.0
+NAG009,Ather Grid Nagpur #10,Statiq,Nagpur,Maharashtra,21.19688,78.9771,Type2,120.0,2,23.86,67.9,38.0
+NAG010,Jio-bp pulse Nagpur #11,Statiq,Nagpur,Maharashtra,21.14786,79.16021,CCS2,60.0,6,13.54,25.6,43.0
+NAG011,Jio-bp pulse Nagpur #12,Tata Power,Nagpur,Maharashtra,21.13744,78.97474,CCS2,60.0,3,15.64,24.7,39.0
+NAG012,Jio-bp pulse Nagpur #13,Fortum,Nagpur,Maharashtra,21.13363,79.03713,CCS2,30.0,6,15.77,40.3,57.0
+NAG013,Fortum Nagpur #14,Jio-bp pulse,Nagpur,Maharashtra,21.14195,79.16749,CHAdeMO,22.0,3,12.81,23.9,41.0
+BEN000,Statiq Bengaluru #1,Jio-bp pulse,Bengaluru,Karnataka,12.95636,77.56773,Type2,22.0,2,13.84,29.1,30.0
+BEN001,Ather Grid Bengaluru #2,ChargeZone,Bengaluru,Karnataka,13.1756,77.47021,Type2,120.0,3,13.49,22.1,47.0
+BEN002,Statiq Bengaluru #3,Statiq,Bengaluru,Karnataka,12.98507,77.67384,CCS2,60.0,6,16.19,13.8,55.0
+BEN003,Tata Power Bengaluru #4,EESL,Bengaluru,Karnataka,12.98182,77.59341,CCS2,22.0,5,23.14,64.6,40.0
+BEN004,Statiq Bengaluru #5,Ather Grid,Bengaluru,Karnataka,12.86862,77.62981,CCS2,60.0,5,17.03,18.8,33.0
+BEN005,EESL Bengaluru #6,Ather Grid,Bengaluru,Karnataka,13.05347,77.58209,GB/T,30.0,5,22.78,28.5,51.0
+BEN006,Statiq Bengaluru #7,Ather Grid,Bengaluru,Karnataka,12.8619,77.62179,CHAdeMO,30.0,6,20.11,78.8,59.0
+BEN007,ChargeZone Bengaluru #8,EESL,Bengaluru,Karnataka,13.09748,77.678,CCS2,22.0,1,15.77,75.7,35.0
+BEN008,EESL Bengaluru #9,ChargeZone,Bengaluru,Karnataka,12.85974,77.60406,Type2,60.0,2,23.78,35.3,46.0
+BEN009,Fortum Bengaluru #10,Jio-bp pulse,Bengaluru,Karnataka,12.95196,77.48955,GB/T,30.0,5,17.89,47.2,27.0
+BEN010,Jio-bp pulse Bengaluru #11,Fortum,Bengaluru,Karnataka,12.98896,77.5847,CHAdeMO,22.0,6,10.71,66.2,34.0
+BEN011,Statiq Bengaluru #12,Jio-bp pulse,Bengaluru,Karnataka,12.98409,77.50717,CHAdeMO,60.0,4,23.91,28.4,33.0
+BEN012,ChargeZone Bengaluru #13,Fortum,Bengaluru,Karnataka,12.93706,77.6045,CCS2,7.4,5,17.44,45.7,41.0
+BEN013,ChargeZone Bengaluru #14,Statiq,Bengaluru,Karnataka,12.96012,77.55393,CCS2,30.0,3,18.1,20.6,59.0
+BEN014,EESL Bengaluru #15,Fortum,Bengaluru,Karnataka,12.93461,77.63704,CCS2,120.0,2,14.26,19.0,27.0
+BEN015,Tata Power Bengaluru #16,Tata Power,Bengaluru,Karnataka,12.97843,77.52876,Type2,120.0,4,23.84,57.3,56.0
+BEN016,Ather Grid Bengaluru #17,Ather Grid,Bengaluru,Karnataka,12.87066,77.55844,Type2,30.0,3,16.55,22.7,53.0
+BEN017,ChargeZone Bengaluru #18,Statiq,Bengaluru,Karnataka,13.07502,77.63006,Type2,22.0,2,19.6,74.2,28.0
+BEN018,Statiq Bengaluru #19,ChargeZone,Bengaluru,Karnataka,13.0341,77.54038,Type2,60.0,6,17.13,52.7,35.0
+BEN019,Statiq Bengaluru #20,EESL,Bengaluru,Karnataka,13.13034,77.52245,GB/T,30.0,1,19.71,60.6,49.0
+BEN020,Jio-bp pulse Bengaluru #21,Ather Grid,Bengaluru,Karnataka,12.9615,77.50943,GB/T,7.4,2,16.17,65.7,33.0
+BEN021,Ather Grid Bengaluru #22,Ather Grid,Bengaluru,Karnataka,12.97664,77.50393,CHAdeMO,60.0,3,21.68,79.6,42.0
+BEN022,EESL Bengaluru #23,EESL,Bengaluru,Karnataka,13.07396,77.65124,CHAdeMO,30.0,4,16.74,79.1,42.0
+BEN023,Fortum Bengaluru #24,Fortum,Bengaluru,Karnataka,12.86016,77.61571,CHAdeMO,30.0,2,11.33,10.0,40.0
+BEN024,Ather Grid Bengaluru #25,Jio-bp pulse,Bengaluru,Karnataka,12.9488,77.57169,GB/T,60.0,1,26.18,22.6,47.0
+BEN025,ChargeZone Bengaluru #26,EESL,Bengaluru,Karnataka,12.94292,77.60106,CCS2,22.0,2,22.68,47.5,51.0
+BEN026,ChargeZone Bengaluru #27,Fortum,Bengaluru,Karnataka,12.83343,77.61377,CCS2,60.0,2,16.68,53.7,60.0
+BEN027,Tata Power Bengaluru #28,Ather Grid,Bengaluru,Karnataka,12.95334,77.44706,CHAdeMO,120.0,6,15.85,49.6,54.0
+BEN028,Fortum Bengaluru #29,Ather Grid,Bengaluru,Karnataka,13.08072,77.53327,GB/T,22.0,6,21.18,30.2,36.0
+BEN029,Tata Power Bengaluru #30,Ather Grid,Bengaluru,Karnataka,12.97776,77.60997,CHAdeMO,30.0,3,20.49,35.0,37.0
+BEN030,Ather Grid Bengaluru #31,Statiq,Bengaluru,Karnataka,12.86678,77.50288,CCS2,7.4,2,20.63,51.5,26.0
+BEN031,Tata Power Bengaluru #32,Statiq,Bengaluru,Karnataka,12.98779,77.57365,Type2,22.0,1,10.77,53.6,26.0
+BEN032,Tata Power Bengaluru #33,Statiq,Bengaluru,Karnataka,12.87381,77.64049,Type2,60.0,3,14.01,70.2,56.0
+BEN033,Ather Grid Bengaluru #34,Statiq,Bengaluru,Karnataka,13.0191,77.56865,Type2,7.4,1,12.84,59.5,50.0
+BEN034,Fortum Bengaluru #35,Fortum,Bengaluru,Karnataka,12.84361,77.64569,GB/T,30.0,3,15.04,26.8,27.0
+BEN035,Ather Grid Bengaluru #36,EESL,Bengaluru,Karnataka,12.9787,77.45405,CHAdeMO,22.0,4,18.55,68.2,53.0
+BEN036,Tata Power Bengaluru #37,Tata Power,Bengaluru,Karnataka,12.91678,77.51502,Type2,60.0,2,13.6,26.8,41.0
+BEN037,Tata Power Bengaluru #38,Statiq,Bengaluru,Karnataka,12.8963,77.55578,CHAdeMO,30.0,2,23.01,11.3,57.0
+BEN038,Ather Grid Bengaluru #39,Tata Power,Bengaluru,Karnataka,12.98191,77.56171,CCS2,120.0,6,26.59,51.3,28.0
+BEN039,Tata Power Bengaluru #40,EESL,Bengaluru,Karnataka,12.75827,77.55148,Type2,60.0,4,15.15,65.5,28.0
+BEN040,Statiq Bengaluru #41,Jio-bp pulse,Bengaluru,Karnataka,13.05063,77.59074,CHAdeMO,60.0,2,26.57,65.0,38.0
+BEN041,ChargeZone Bengaluru #42,Statiq,Bengaluru,Karnataka,12.94335,77.53418,CHAdeMO,22.0,5,13.01,74.5,38.0
+BEN042,Jio-bp pulse Bengaluru #43,Statiq,Bengaluru,Karnataka,12.91549,77.50538,CCS2,60.0,2,22.7,84.0,30.0
+BEN043,EESL Bengaluru #44,EESL,Bengaluru,Karnataka,12.90796,77.53361,CHAdeMO,7.4,3,20.55,31.4,37.0
+BEN044,Jio-bp pulse Bengaluru #45,Ather Grid,Bengaluru,Karnataka,12.89988,77.65816,GB/T,60.0,6,22.11,18.7,56.0
+HYD000,Statiq Hyderabad #1,Tata Power,Hyderabad,Telangana,17.36847,78.43519,CCS2,30.0,1,14.01,20.5,40.0
+HYD001,Ather Grid Hyderabad #2,Ather Grid,Hyderabad,Telangana,17.36353,78.49393,Type2,30.0,4,15.23,58.9,29.0
+HYD002,Ather Grid Hyderabad #3,Statiq,Hyderabad,Telangana,17.41921,78.49854,Type2,7.4,5,15.29,49.8,46.0
+HYD003,EESL Hyderabad #4,Ather Grid,Hyderabad,Telangana,17.33129,78.43016,Type2,7.4,1,20.96,80.7,26.0
+HYD004,Statiq Hyderabad #5,Jio-bp pulse,Hyderabad,Telangana,17.41244,78.50787,CHAdeMO,30.0,4,23.01,83.6,26.0
+HYD005,Fortum Hyderabad #6,Ather Grid,Hyderabad,Telangana,17.40263,78.38826,CCS2,30.0,6,10.23,43.9,54.0
+HYD006,Tata Power Hyderabad #7,Ather Grid,Hyderabad,Telangana,17.5094,78.53272,CCS2,22.0,1,10.72,80.9,34.0
+HYD007,Tata Power Hyderabad #8,Tata Power,Hyderabad,Telangana,17.42573,78.51996,Type2,30.0,4,23.6,29.4,43.0
+HYD008,Statiq Hyderabad #9,Ather Grid,Hyderabad,Telangana,17.42456,78.30447,GB/T,60.0,3,20.43,83.2,32.0
+HYD009,Statiq Hyderabad #10,Tata Power,Hyderabad,Telangana,17.39296,78.53818,Type2,22.0,5,12.54,60.6,34.0
+HYD010,ChargeZone Hyderabad #11,ChargeZone,Hyderabad,Telangana,17.51915,78.43316,Type2,22.0,3,21.94,52.9,32.0
+HYD011,Ather Grid Hyderabad #12,ChargeZone,Hyderabad,Telangana,17.43868,78.40087,CHAdeMO,120.0,1,16.34,66.0,30.0
+HYD012,Fortum Hyderabad #13,Fortum,Hyderabad,Telangana,17.25829,78.44441,CHAdeMO,60.0,5,26.9,35.6,31.0
+HYD013,Jio-bp pulse Hyderabad #14,Ather Grid,Hyderabad,Telangana,17.3729,78.55412,CCS2,30.0,1,22.99,29.8,26.0
+HYD014,Jio-bp pulse Hyderabad #15,Statiq,Hyderabad,Telangana,17.36669,78.49055,CCS2,7.4,2,15.3,38.9,37.0
+HYD015,ChargeZone Hyderabad #16,Tata Power,Hyderabad,Telangana,17.41209,78.40584,CCS2,22.0,5,23.87,79.6,43.0
+HYD016,Fortum Hyderabad #17,ChargeZone,Hyderabad,Telangana,17.41775,78.50026,Type2,30.0,6,22.54,42.6,52.0
+HYD017,Jio-bp pulse Hyderabad #18,ChargeZone,Hyderabad,Telangana,17.32868,78.36003,GB/T,60.0,6,23.78,17.0,48.0
+HYD018,EESL Hyderabad #19,Jio-bp pulse,Hyderabad,Telangana,17.34916,78.58466,CHAdeMO,7.4,6,11.37,30.7,39.0
+HYD019,EESL Hyderabad #20,Ather Grid,Hyderabad,Telangana,17.3989,78.52086,GB/T,7.4,3,22.31,30.3,56.0
+HYD020,Jio-bp pulse Hyderabad #21,ChargeZone,Hyderabad,Telangana,17.3881,78.42996,CHAdeMO,30.0,2,17.04,21.4,37.0
+HYD021,Ather Grid Hyderabad #22,ChargeZone,Hyderabad,Telangana,17.45979,78.49346,Type2,30.0,6,20.99,82.6,54.0
+HYD022,Fortum Hyderabad #23,Ather Grid,Hyderabad,Telangana,17.44424,78.50894,CCS2,7.4,4,13.69,79.7,29.0
+HYD023,ChargeZone Hyderabad #24,Jio-bp pulse,Hyderabad,Telangana,17.3364,78.42061,CCS2,30.0,5,10.95,48.4,34.0
+HYD024,ChargeZone Hyderabad #25,Tata Power,Hyderabad,Telangana,17.30971,78.5023,CCS2,30.0,2,14.53,54.1,50.0
+HYD025,Ather Grid Hyderabad #26,Statiq,Hyderabad,Telangana,17.31892,78.57768,CCS2,30.0,3,22.91,16.6,29.0
+HYD026,EESL Hyderabad #27,Fortum,Hyderabad,Telangana,17.34187,78.42704,Type2,120.0,3,18.83,24.3,56.0
+HYD027,Ather Grid Hyderabad #28,EESL,Hyderabad,Telangana,17.42054,78.52881,CCS2,22.0,4,14.75,59.2,28.0
+HYD028,Fortum Hyderabad #29,Jio-bp pulse,Hyderabad,Telangana,17.38621,78.47807,GB/T,120.0,2,18.16,50.3,35.0
+HYD029,Ather Grid Hyderabad #30,ChargeZone,Hyderabad,Telangana,17.38758,78.49871,CCS2,7.4,2,13.67,57.0,39.0
+HYD030,EESL Hyderabad #31,Ather Grid,Hyderabad,Telangana,17.37262,78.49296,CCS2,22.0,4,23.53,49.1,57.0
+HYD031,ChargeZone Hyderabad #32,Tata Power,Hyderabad,Telangana,17.35461,78.54193,CHAdeMO,60.0,6,19.42,17.0,45.0
+CHE000,EESL Chennai #1,Jio-bp pulse,Chennai,Tamil Nadu,13.07583,80.22525,GB/T,7.4,6,18.81,55.9,51.0
+CHE001,Ather Grid Chennai #2,Fortum,Chennai,Tamil Nadu,13.0991,80.28126,Type2,60.0,2,25.04,58.6,40.0
+CHE002,Fortum Chennai #3,ChargeZone,Chennai,Tamil Nadu,13.1935,80.20606,Type2,22.0,1,22.43,67.3,32.0
+CHE003,Statiq Chennai #4,Fortum,Chennai,Tamil Nadu,13.02628,80.17314,CCS2,22.0,2,14.19,13.0,50.0
+CHE004,Fortum Chennai #5,Tata Power,Chennai,Tamil Nadu,13.1643,80.19814,CCS2,7.4,5,16.6,46.5,40.0
+CHE005,Jio-bp pulse Chennai #6,Ather Grid,Chennai,Tamil Nadu,13.09997,80.34662,Type2,22.0,6,23.93,15.9,38.0
+CHE006,Jio-bp pulse Chennai #7,ChargeZone,Chennai,Tamil Nadu,13.13796,80.31329,CCS2,22.0,5,16.95,78.9,26.0
+CHE007,Tata Power Chennai #8,ChargeZone,Chennai,Tamil Nadu,13.14629,80.27958,CCS2,7.4,6,12.93,24.9,45.0
+CHE008,Jio-bp pulse Chennai #9,EESL,Chennai,Tamil Nadu,13.08363,80.34805,CCS2,30.0,1,16.0,61.7,55.0
+CHE009,Ather Grid Chennai #10,Ather Grid,Chennai,Tamil Nadu,12.97208,80.30197,Type2,22.0,1,20.19,31.6,50.0
+CHE010,Fortum Chennai #11,Fortum,Chennai,Tamil Nadu,13.0302,80.23518,CCS2,7.4,1,10.79,74.0,33.0
+CHE011,Jio-bp pulse Chennai #12,ChargeZone,Chennai,Tamil Nadu,13.04817,80.40618,CCS2,30.0,4,23.85,21.3,54.0
+CHE012,ChargeZone Chennai #13,Ather Grid,Chennai,Tamil Nadu,13.08662,80.30543,GB/T,7.4,5,13.69,41.4,38.0
+CHE013,Statiq Chennai #14,Ather Grid,Chennai,Tamil Nadu,13.17074,80.35052,Type2,30.0,2,15.11,21.2,56.0
+CHE014,EESL Chennai #15,Tata Power,Chennai,Tamil Nadu,13.15268,80.20755,CCS2,30.0,2,12.11,10.6,27.0
+CHE015,Statiq Chennai #16,Fortum,Chennai,Tamil Nadu,13.14112,80.34416,CCS2,60.0,1,21.29,66.7,38.0
+CHE016,ChargeZone Chennai #17,EESL,Chennai,Tamil Nadu,13.01481,80.25835,CCS2,7.4,2,11.73,51.6,46.0
+CHE017,EESL Chennai #18,Jio-bp pulse,Chennai,Tamil Nadu,13.09653,80.18774,CCS2,60.0,2,20.78,32.3,37.0
+CHE018,Ather Grid Chennai #19,EESL,Chennai,Tamil Nadu,13.01284,80.24604,CCS2,120.0,4,19.82,18.0,33.0
+CHE019,Tata Power Chennai #20,Tata Power,Chennai,Tamil Nadu,13.13792,80.19365,CCS2,30.0,2,20.71,17.3,57.0
+CHE020,Tata Power Chennai #21,Tata Power,Chennai,Tamil Nadu,13.03377,80.27368,CCS2,60.0,5,24.59,63.9,46.0
+CHE021,Fortum Chennai #22,EESL,Chennai,Tamil Nadu,13.03971,80.15808,CCS2,22.0,4,16.12,66.7,60.0
+CHE022,Tata Power Chennai #23,Statiq,Chennai,Tamil Nadu,13.10432,80.20858,GB/T,22.0,4,10.69,40.3,45.0
+CHE023,ChargeZone Chennai #24,EESL,Chennai,Tamil Nadu,13.15131,80.29038,CCS2,30.0,5,18.75,50.3,46.0
+CHE024,Tata Power Chennai #25,Statiq,Chennai,Tamil Nadu,13.05788,80.10465,CHAdeMO,7.4,5,11.27,54.4,33.0
+CHE025,Fortum Chennai #26,Jio-bp pulse,Chennai,Tamil Nadu,13.17767,80.21855,CCS2,60.0,3,19.25,74.8,50.0
+CHE026,Statiq Chennai #27,ChargeZone,Chennai,Tamil Nadu,13.0522,80.27777,CCS2,30.0,2,15.23,80.8,43.0
+CHE027,Fortum Chennai #28,Tata Power,Chennai,Tamil Nadu,13.15463,80.19942,GB/T,22.0,3,20.82,70.2,29.0
+KOL000,Fortum Kolkata #1,Fortum,Kolkata,West Bengal,22.59195,88.43359,GB/T,30.0,6,22.37,49.2,44.0
+KOL001,Jio-bp pulse Kolkata #2,Jio-bp pulse,Kolkata,West Bengal,22.75485,88.33757,Type2,22.0,5,23.31,72.2,35.0
+KOL002,EESL Kolkata #3,Fortum,Kolkata,West Bengal,22.51467,88.33516,Type2,7.4,4,16.48,41.5,29.0
+KOL003,EESL Kolkata #4,Statiq,Kolkata,West Bengal,22.48068,88.35308,CCS2,7.4,2,17.68,26.1,31.0
+KOL004,Jio-bp pulse Kolkata #5,ChargeZone,Kolkata,West Bengal,22.57373,88.33163,CHAdeMO,30.0,1,22.79,77.7,54.0
+KOL005,Ather Grid Kolkata #6,EESL,Kolkata,West Bengal,22.58742,88.41725,CHAdeMO,30.0,1,23.41,53.9,52.0
+KOL006,ChargeZone Kolkata #7,Tata Power,Kolkata,West Bengal,22.5646,88.3714,CCS2,22.0,3,14.76,28.7,43.0
+KOL007,Tata Power Kolkata #8,Fortum,Kolkata,West Bengal,22.52348,88.41752,GB/T,22.0,2,17.61,47.4,48.0
+KOL008,ChargeZone Kolkata #9,Statiq,Kolkata,West Bengal,22.65883,88.40262,CCS2,120.0,2,19.49,12.3,47.0
+KOL009,Tata Power Kolkata #10,Jio-bp pulse,Kolkata,West Bengal,22.59772,88.42727,CCS2,30.0,3,10.58,17.5,48.0
+KOL010,ChargeZone Kolkata #11,Tata Power,Kolkata,West Bengal,22.53154,88.36467,CHAdeMO,120.0,5,20.63,56.5,49.0
+KOL011,Fortum Kolkata #12,Tata Power,Kolkata,West Bengal,22.61065,88.34893,CCS2,60.0,6,14.07,24.6,25.0
+KOL012,Fortum Kolkata #13,ChargeZone,Kolkata,West Bengal,22.53466,88.44428,CCS2,30.0,3,20.75,77.0,48.0
+KOL013,Jio-bp pulse Kolkata #14,ChargeZone,Kolkata,West Bengal,22.51203,88.25037,CCS2,7.4,3,23.2,81.3,39.0
+KOL014,Ather Grid Kolkata #15,Ather Grid,Kolkata,West Bengal,22.56941,88.3298,CCS2,30.0,1,18.6,27.4,48.0
+KOL015,ChargeZone Kolkata #16,Fortum,Kolkata,West Bengal,22.54225,88.21795,CCS2,22.0,5,13.8,47.1,32.0
+KOL016,Ather Grid Kolkata #17,Jio-bp pulse,Kolkata,West Bengal,22.59773,88.36712,GB/T,60.0,6,16.2,79.9,45.0
+KOL017,EESL Kolkata #18,Ather Grid,Kolkata,West Bengal,22.44593,88.39676,Type2,30.0,2,11.15,47.2,56.0
+KOL018,EESL Kolkata #19,Ather Grid,Kolkata,West Bengal,22.51549,88.29644,Type2,30.0,2,21.52,24.9,50.0
+KOL019,Fortum Kolkata #20,EESL,Kolkata,West Bengal,22.60482,88.4335,GB/T,60.0,6,23.21,69.9,48.0
+AHM000,Tata Power Ahmedabad #1,Fortum,Ahmedabad,Gujarat,23.05539,72.62131,CCS2,60.0,5,19.34,79.5,39.0
+AHM001,Ather Grid Ahmedabad #2,Tata Power,Ahmedabad,Gujarat,22.98444,72.67019,Type2,30.0,3,15.52,28.4,42.0
+AHM002,ChargeZone Ahmedabad #3,Fortum,Ahmedabad,Gujarat,23.0804,72.47824,CCS2,60.0,3,21.6,43.5,39.0
+AHM003,ChargeZone Ahmedabad #4,EESL,Ahmedabad,Gujarat,23.02197,72.63653,Type2,30.0,5,20.44,35.6,53.0
+AHM004,Statiq Ahmedabad #5,Statiq,Ahmedabad,Gujarat,22.98386,72.56054,Type2,60.0,5,16.34,60.4,34.0
+AHM005,Statiq Ahmedabad #6,Fortum,Ahmedabad,Gujarat,23.0186,72.57177,CCS2,30.0,6,22.25,22.4,54.0
+AHM006,Fortum Ahmedabad #7,ChargeZone,Ahmedabad,Gujarat,23.069,72.53044,Type2,7.4,4,15.43,70.9,50.0
+AHM007,Ather Grid Ahmedabad #8,Fortum,Ahmedabad,Gujarat,23.13732,72.53545,CHAdeMO,30.0,4,23.61,28.5,34.0
+AHM008,Tata Power Ahmedabad #9,Fortum,Ahmedabad,Gujarat,22.96462,72.56995,CHAdeMO,7.4,6,10.17,51.7,43.0
+AHM009,Statiq Ahmedabad #10,ChargeZone,Ahmedabad,Gujarat,22.97349,72.54708,CCS2,60.0,5,23.99,20.2,39.0
+AHM010,Fortum Ahmedabad #11,Tata Power,Ahmedabad,Gujarat,22.9766,72.61977,CCS2,60.0,3,16.81,44.5,31.0
+AHM011,Statiq Ahmedabad #12,EESL,Ahmedabad,Gujarat,23.05811,72.44726,CCS2,30.0,6,12.45,67.4,38.0
+AHM012,Statiq Ahmedabad #13,Statiq,Ahmedabad,Gujarat,23.03238,72.44845,GB/T,60.0,1,16.15,64.3,54.0
+AHM013,Ather Grid Ahmedabad #14,Fortum,Ahmedabad,Gujarat,22.9969,72.66934,CHAdeMO,7.4,5,19.44,49.4,48.0
+AHM014,EESL Ahmedabad #15,Tata Power,Ahmedabad,Gujarat,22.94466,72.62988,CHAdeMO,120.0,6,19.23,60.7,54.0
+AHM015,Statiq Ahmedabad #16,Statiq,Ahmedabad,Gujarat,23.01457,72.56786,CCS2,120.0,1,23.56,36.6,48.0
+AHM016,Tata Power Ahmedabad #17,Statiq,Ahmedabad,Gujarat,23.03383,72.64416,Type2,30.0,1,18.93,36.4,33.0
+AHM017,Statiq Ahmedabad #18,EESL,Ahmedabad,Gujarat,22.99655,72.50806,CHAdeMO,30.0,3,21.7,15.6,51.0
+AHM018,Jio-bp pulse Ahmedabad #19,Jio-bp pulse,Ahmedabad,Gujarat,22.99014,72.56961,GB/T,120.0,3,22.51,67.8,60.0
+AHM019,EESL Ahmedabad #20,Tata Power,Ahmedabad,Gujarat,23.06783,72.51319,CCS2,30.0,2,14.6,64.8,31.0
+AHM020,Tata Power Ahmedabad #21,Tata Power,Ahmedabad,Gujarat,23.07498,72.5988,CHAdeMO,22.0,1,17.82,31.2,46.0
+AHM021,Tata Power Ahmedabad #22,Fortum,Ahmedabad,Gujarat,23.04571,72.62391,Type2,30.0,1,23.38,83.6,51.0
+AHM022,Statiq Ahmedabad #23,Statiq,Ahmedabad,Gujarat,22.97392,72.44391,CCS2,30.0,2,16.32,44.7,54.0
+AHM023,ChargeZone Ahmedabad #24,EESL,Ahmedabad,Gujarat,23.01104,72.54147,CHAdeMO,30.0,3,10.64,69.0,40.0
+JAI000,Jio-bp pulse Jaipur #1,Statiq,Jaipur,Rajasthan,26.86613,75.82238,GB/T,30.0,2,10.9,67.6,38.0
+JAI001,Statiq Jaipur #2,Ather Grid,Jaipur,Rajasthan,26.88094,75.89087,CHAdeMO,22.0,5,23.15,59.6,40.0
+JAI002,Tata Power Jaipur #3,Ather Grid,Jaipur,Rajasthan,26.95162,75.76927,CCS2,60.0,2,14.46,41.1,29.0
+JAI003,EESL Jaipur #4,Ather Grid,Jaipur,Rajasthan,26.85251,75.79491,Type2,30.0,4,16.41,11.5,34.0
+JAI004,Fortum Jaipur #5,Statiq,Jaipur,Rajasthan,26.88689,75.75786,CCS2,7.4,4,10.01,22.1,28.0
+JAI005,ChargeZone Jaipur #6,ChargeZone,Jaipur,Rajasthan,26.97142,75.67945,CHAdeMO,30.0,1,23.18,18.1,29.0
+JAI006,Fortum Jaipur #7,Fortum,Jaipur,Rajasthan,27.04711,75.6708,CHAdeMO,7.4,6,11.24,83.1,32.0
+JAI007,Ather Grid Jaipur #8,ChargeZone,Jaipur,Rajasthan,26.90487,75.8261,CCS2,30.0,1,23.96,38.4,48.0
+JAI008,EESL Jaipur #9,Tata Power,Jaipur,Rajasthan,26.96363,75.74078,Type2,120.0,5,15.09,50.0,49.0
+JAI009,ChargeZone Jaipur #10,Statiq,Jaipur,Rajasthan,27.01256,75.88309,GB/T,30.0,1,19.92,85.0,25.0
+JAI010,Tata Power Jaipur #11,EESL,Jaipur,Rajasthan,26.85011,75.6845,CCS2,22.0,5,18.23,37.4,49.0
+JAI011,EESL Jaipur #12,Statiq,Jaipur,Rajasthan,27.01945,75.79182,GB/T,30.0,5,16.61,34.1,28.0
+JAI012,EESL Jaipur #13,Tata Power,Jaipur,Rajasthan,26.7554,75.69475,CCS2,22.0,5,12.36,31.3,40.0
+JAI013,Ather Grid Jaipur #14,Jio-bp pulse,Jaipur,Rajasthan,26.99226,75.78717,GB/T,22.0,1,20.87,21.1,57.0
+JAI014,Statiq Jaipur #15,ChargeZone,Jaipur,Rajasthan,26.94191,75.78072,CCS2,30.0,2,22.8,69.8,59.0
+JAI015,Jio-bp pulse Jaipur #16,EESL,Jaipur,Rajasthan,26.9179,75.7269,CCS2,7.4,2,13.97,53.0,31.0
+JAI016,Statiq Jaipur #17,EESL,Jaipur,Rajasthan,26.91528,75.86728,GB/T,30.0,4,21.47,59.0,50.0
+JAI017,EESL Jaipur #18,Fortum,Jaipur,Rajasthan,26.75595,75.81232,Type2,60.0,1,21.49,15.0,33.0
+LUC000,Fortum Lucknow #1,Ather Grid,Lucknow,Uttar Pradesh,26.8624,80.85709,Type2,7.4,5,21.51,33.2,44.0
+LUC001,Tata Power Lucknow #2,Ather Grid,Lucknow,Uttar Pradesh,26.82489,80.89397,GB/T,30.0,6,11.37,72.2,46.0
+LUC002,Statiq Lucknow #3,Jio-bp pulse,Lucknow,Uttar Pradesh,26.94621,80.91811,Type2,22.0,4,11.55,16.0,51.0
+LUC003,ChargeZone Lucknow #4,Fortum,Lucknow,Uttar Pradesh,26.8626,81.0582,CHAdeMO,22.0,2,19.93,81.1,28.0
+LUC004,Ather Grid Lucknow #5,Statiq,Lucknow,Uttar Pradesh,26.82373,80.77007,CHAdeMO,22.0,3,17.99,33.6,30.0
+LUC005,Jio-bp pulse Lucknow #6,Fortum,Lucknow,Uttar Pradesh,26.75786,80.94428,CHAdeMO,22.0,5,10.9,29.0,33.0
+LUC006,Tata Power Lucknow #7,EESL,Lucknow,Uttar Pradesh,26.9889,80.94393,CCS2,120.0,2,21.9,38.5,57.0
+LUC007,Ather Grid Lucknow #8,Ather Grid,Lucknow,Uttar Pradesh,26.7918,80.93745,Type2,60.0,6,16.48,76.5,28.0
+LUC008,Tata Power Lucknow #9,Jio-bp pulse,Lucknow,Uttar Pradesh,26.7542,80.9149,CCS2,30.0,1,13.02,30.2,46.0
+LUC009,Tata Power Lucknow #10,Statiq,Lucknow,Uttar Pradesh,26.84257,81.11352,CCS2,30.0,3,15.74,23.6,51.0
+LUC010,ChargeZone Lucknow #11,Tata Power,Lucknow,Uttar Pradesh,26.93413,80.99434,CHAdeMO,30.0,5,22.17,78.0,37.0
+LUC011,Tata Power Lucknow #12,EESL,Lucknow,Uttar Pradesh,26.82777,80.99797,CCS2,30.0,1,19.23,68.6,52.0
+LUC012,Fortum Lucknow #13,Statiq,Lucknow,Uttar Pradesh,26.80253,81.0202,Type2,22.0,6,22.25,78.7,55.0
+LUC013,Tata Power Lucknow #14,Ather Grid,Lucknow,Uttar Pradesh,26.87483,80.89285,CCS2,120.0,3,16.61,22.7,58.0
+KOT000,Tata Power Kota #1,Fortum,Kota,Rajasthan,25.23291,75.85781,CCS2,22.0,5,14.64,58.5,32.0
+KOT001,Statiq Kota #2,ChargeZone,Kota,Rajasthan,25.20709,75.80636,CHAdeMO,120.0,4,19.32,57.4,31.0
+KOT002,Jio-bp pulse Kota #3,Statiq,Kota,Rajasthan,25.18765,75.89877,GB/T,30.0,2,14.64,44.1,32.0
+KOT003,Statiq Kota #4,Ather Grid,Kota,Rajasthan,25.2085,75.83322,Type2,22.0,6,15.98,77.6,28.0
+KOT004,Statiq Kota #5,Jio-bp pulse,Kota,Rajasthan,25.22775,76.03783,CHAdeMO,7.4,1,20.88,38.2,36.0
+KOT005,Ather Grid Kota #6,Fortum,Kota,Rajasthan,25.15463,75.92493,CHAdeMO,22.0,4,20.29,63.4,55.0
+RAI000,ChargeZone Raipur #1,Tata Power,Raipur,Chhattisgarh,21.13063,81.54148,GB/T,22.0,1,12.61,34.9,27.0
+RAI001,Jio-bp pulse Raipur #2,Fortum,Raipur,Chhattisgarh,21.30315,81.54828,CCS2,7.4,6,12.0,63.6,46.0
+RAI002,Statiq Raipur #3,Tata Power,Raipur,Chhattisgarh,21.19651,81.75743,GB/T,30.0,4,23.81,60.4,50.0
+RAI003,Ather Grid Raipur #4,EESL,Raipur,Chhattisgarh,21.21484,81.68428,Type2,120.0,3,13.06,48.0,58.0
+RAI004,Jio-bp pulse Raipur #5,Ather Grid,Raipur,Chhattisgarh,21.19449,81.64606,GB/T,22.0,1,20.18,74.8,30.0
+RAI005,ChargeZone Raipur #6,Statiq,Raipur,Chhattisgarh,21.24067,81.57191,CHAdeMO,22.0,5,19.07,39.1,44.0
+RAI006,Ather Grid Raipur #7,Statiq,Raipur,Chhattisgarh,21.29036,81.62661,CCS2,7.4,6,22.83,58.7,57.0
+RAI007,Tata Power Raipur #8,Tata Power,Raipur,Chhattisgarh,21.20775,81.59274,GB/T,30.0,1,14.92,62.6,53.0
+SUR000,EESL Surat #1,Statiq,Surat,Gujarat,21.38242,72.81517,GB/T,30.0,2,14.63,30.6,53.0
+SUR001,ChargeZone Surat #2,EESL,Surat,Gujarat,21.18694,72.85003,GB/T,60.0,5,15.73,58.6,42.0
+SUR002,Statiq Surat #3,Tata Power,Surat,Gujarat,21.15176,72.72911,CHAdeMO,30.0,1,11.86,81.6,35.0
+SUR003,Jio-bp pulse Surat #4,ChargeZone,Surat,Gujarat,21.19403,72.76978,Type2,22.0,6,14.2,18.6,44.0
+SUR004,Statiq Surat #5,Jio-bp pulse,Surat,Gujarat,21.17295,72.88548,CCS2,22.0,6,17.74,30.3,42.0
+SUR005,Statiq Surat #6,Jio-bp pulse,Surat,Gujarat,21.06534,72.78126,CCS2,7.4,4,10.6,15.9,49.0
+SUR006,Tata Power Surat #7,Ather Grid,Surat,Gujarat,21.07486,72.73156,CHAdeMO,7.4,2,20.69,81.4,30.0
+SUR007,ChargeZone Surat #8,EESL,Surat,Gujarat,21.15575,72.90283,CHAdeMO,120.0,5,24.48,46.3,44.0
+SUR008,Fortum Surat #9,Tata Power,Surat,Gujarat,21.1462,72.86468,CCS2,22.0,2,11.32,24.3,47.0
+SUR009,Tata Power Surat #10,ChargeZone,Surat,Gujarat,21.09844,72.90229,CHAdeMO,30.0,3,20.09,53.4,42.0
+SUR010,Tata Power Surat #11,Fortum,Surat,Gujarat,21.17618,72.71479,GB/T,30.0,3,10.37,80.7,36.0
+SUR011,Fortum Surat #12,Fortum,Surat,Gujarat,21.07934,72.87419,GB/T,22.0,1,10.36,55.0,28.0
+HWY-BhIn15,Highway Hub Bhopal-Indore 15%,Tata Power,Highway,Madhya Pradesh,23.17886,77.17936,CCS2,60.0,4,23.5,37.3,35.0
+HWY-BhIn38,Highway Hub Bhopal-Indore 38%,Jio-bp pulse,Highway,Madhya Pradesh,23.05278,76.81655,CCS2,60.0,3,18.34,13.2,35.0
+HWY-BhIn61,Highway Hub Bhopal-Indore 61%,Statiq,Highway,Madhya Pradesh,22.92672,76.45374,CCS2,60.0,4,16.81,14.3,35.0
+HWY-BhIn85,Highway Hub Bhopal-Indore 85%,Jio-bp pulse,Highway,Madhya Pradesh,22.80064,76.09094,CCS2,60.0,2,16.1,31.7,35.0
+HWY-BhSa15,Highway Hub Bhopal-Sagar 15%,Jio-bp pulse,Highway,Madhya Pradesh,23.34674,77.61138,CCS2,60.0,4,22.41,40.2,35.0
+HWY-BhSa38,Highway Hub Bhopal-Sagar 38%,Statiq,Highway,Madhya Pradesh,23.48181,77.92059,CCS2,60.0,4,19.25,52.4,35.0
+HWY-BhSa61,Highway Hub Bhopal-Sagar 61%,Fortum,Highway,Madhya Pradesh,23.61689,78.22981,CCS2,60.0,3,17.78,57.2,35.0
+HWY-BhSa85,Highway Hub Bhopal-Sagar 85%,Ather Grid,Highway,Madhya Pradesh,23.75196,78.53902,CCS2,60.0,2,16.21,22.1,35.0
+HWY-BhJa15,Highway Hub Bhopal-Jabalpur 15%,Ather Grid,Highway,Madhya Pradesh,23.24814,77.79867,CCS2,60.0,3,18.81,36.2,35.0
+HWY-BhJa38,Highway Hub Bhopal-Jabalpur 38%,Ather Grid,Highway,Madhya Pradesh,23.22985,78.39922,CCS2,60.0,4,18.34,36.0,35.0
+HWY-BhJa61,Highway Hub Bhopal-Jabalpur 61%,Statiq,Highway,Madhya Pradesh,23.21155,78.99978,CCS2,60.0,3,22.57,17.9,35.0
+HWY-BhJa85,Highway Hub Bhopal-Jabalpur 85%,Statiq,Highway,Madhya Pradesh,23.19326,79.60033,CCS2,60.0,2,20.02,43.6,35.0

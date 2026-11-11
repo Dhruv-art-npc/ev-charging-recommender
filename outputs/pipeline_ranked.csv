@@ -1,0 +1,17 @@
+scenario,rank,station_id,name,city,operator,connector_type,power_kw,distance_km,soc_arrival,travel_time_min,wait_time_min,charging_time_min,total_time_min,energy_to_charge_kwh,price_per_kwh,dynamic_price_per_kwh,charging_cost,station_load,latitude,longitude
+Bhopal_Low_SOC_CCS2,1,BHO010,ChargeZone Bhopal #11,Bhopal,ChargeZone,CCS2,30.0,7.69,6.79,10.26,19.38,63.66,93.3,31.83,11.26,15.52,494.05,32.1,23.29,77.37
+Bhopal_Low_SOC_CCS2,2,BHO002,Fortum Bhopal #3,Bhopal,Tata Power,CCS2,30.0,8.9,6.29,11.87,1.29,64.09,77.25,32.05,14.96,22.63,725.3,41.4,23.32,77.41
+Bhopal_Low_SOC_CCS2,3,BHO017,ChargeZone Bhopal #18,Bhopal,Ather Grid,CCS2,120.0,8.41,6.49,11.22,3.57,38.35,53.14,31.96,19.87,29.69,948.76,40.15,23.28,77.47
+Bhopal_Low_SOC_CCS2,4,BHO013,Statiq Bhopal #14,Bhopal,Jio-bp pulse,CCS2,60.0,9.64,5.98,12.85,9.08,38.62,60.55,32.18,25.64,31.98,1029.19,22.1,23.19,77.4
+Bhopal_Low_SOC_CCS2,5,BHO000,EESL Bhopal #1,Bhopal,Ather Grid,CCS2,60.0,11.58,5.18,15.44,26.76,39.04,81.24,32.53,26.66,37.29,1213.06,33.55,23.31,77.48
+Delhi_Mid_SOC_Type2,1,DEL037,Tata Power Delhi #38,Delhi,Statiq,Type2,30.0,2.49,33.81,3.33,16.35,58.07,77.75,18.45,12.28,16.68,357.27,30.65,28.62,77.23
+Delhi_Mid_SOC_Type2,2,DEL000,ChargeZone Delhi #1,Delhi,Statiq,Type2,22.0,6.02,32.12,8.03,0.64,59.58,68.25,19.0,14.31,18.83,413.7,27.45,28.6,77.16
+Delhi_Mid_SOC_Type2,3,DEL044,ChargeZone Delhi #45,Delhi,Statiq,Type2,7.4,12.78,28.89,17.03,0.19,185.73,202.95,20.06,16.3,18.79,432.79,14.2,28.54,77.16
+Delhi_Mid_SOC_Type2,4,DEL009,Tata Power Delhi #10,Delhi,Statiq,Type2,22.0,10.08,30.18,13.43,24.83,61.32,99.58,19.64,14.79,20.35,460.06,31.9,28.6,77.13
+Mumbai_High_SOC_CCS2,1,MUM037,Fortum Mumbai #38,Mumbai,EESL,CCS2,22.0,5.26,63.45,7.01,0.0,107.14,114.15,21.95,11.4,12.48,494.33,9.05,19.04,72.86
+Mumbai_High_SOC_CCS2,2,MUM036,Ather Grid Mumbai #37,Mumbai,Statiq,CCS2,30.0,6.31,63.14,8.41,0.19,79.0,87.6,22.16,15.05,16.15,643.19,7.05,19.07,72.83
+Mumbai_High_SOC_CCS2,3,MUM035,ChargeZone Mumbai #36,Mumbai,Statiq,CCS2,7.4,23.05,58.2,30.73,0.0,348.13,378.86,25.6,13.0,14.18,614.14,8.7,19.21,72.79
+Mumbai_High_SOC_CCS2,4,MUM026,Tata Power Mumbai #27,Mumbai,Ather Grid,CCS2,7.4,2.97,64.12,3.95,0.01,314.69,318.66,21.48,21.52,24.09,942.91,11.3,19.06,72.86
+Mumbai_High_SOC_CCS2,5,MUM028,Statiq Mumbai #29,Mumbai,Ather Grid,CCS2,60.0,16.44,60.15,21.92,0.14,41.58,63.64,24.24,16.07,18.26,765.86,12.8,19.08,73.0
+Pune_Emergency_CHAdeMO,1,PUN017,Statiq Pune #18,Pune,Ather Grid,CHAdeMO,120.0,4.92,6.26,6.57,0.86,41.82,49.25,34.85,21.65,31.47,1096.68,37.4,18.52,73.89
+Pune_Emergency_CHAdeMO,2,PUN007,Fortum Pune #8,Pune,Statiq,CHAdeMO,30.0,7.23,5.45,9.64,3.18,70.59,83.4,35.29,11.36,17.03,601.14,40.5,18.51,73.91

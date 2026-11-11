@@ -1,0 +1,47 @@
+{
+  "arrival_forecast": {
+    "test_rows": 2116,
+    "random_forest": {
+      "MAE": 0.9537,
+      "RMSE": 1.3171,
+      "R2": 0.3767
+    },
+    "baseline_same_hour_yesterday": {
+      "MAE": 1.233,
+      "RMSE": 1.8273,
+      "R2": -0.1997
+    },
+    "baseline_same_hour_last_week": {
+      "MAE": 1.1508,
+      "RMSE": 1.6936,
+      "R2": -0.0306
+    },
+    "baseline_train_mean": {
+      "MAE": 1.3267,
+      "RMSE": 1.725,
+      "R2": -0.0691
+    },
+    "top_features": {
+      "hour_cos": 0.3363,
+      "roll_168": 0.1494,
+      "roll_24": 0.108,
+      "hour_sin": 0.0789,
+      "month": 0.0606
+    }
+  },
+  "session_models": {
+    "duration_min": {
+      "MAE": 3.76,
+      "RMSE": 4.6087,
+      "R2": 0.7323,
+      "baseline_mean_MAE": 7.2927
+    },
+    "energy_kwh": {
+      "MAE": 4.2031,
+      "RMSE": 5.4799,
+      "R2": 0.7414,
+      "baseline_mean_MAE": 8.8324
+    }
+  },
+  "n_sessions": 13236
+}
