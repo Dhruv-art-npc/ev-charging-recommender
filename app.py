@@ -224,8 +224,46 @@ src_mode = sb.radio("Input Source", ["Manual", "IoT JSON", "Simulated IoT"], lab
 
 if src_mode == "Manual":
     sb.markdown('<p class="sidebar-section">📍 Location</p>', unsafe_allow_html=True)
-    lat = sb.number_input("Latitude",  value=23.2599, format="%.5f", step=0.001)
-    lon = sb.number_input("Longitude", value=77.4126, format="%.5f", step=0.001)
+
+    # ── City preset buttons (coordinates from data/india_charging_stations.csv) ─
+    sb.markdown("**📌 Quick city presets:**")
+    _CITY_PRESETS = {
+        "Bhopal":     (23.2476, 77.4182),
+        "Delhi":      (28.6013, 77.2015),
+        "Mumbai":     (19.0784, 72.8962),
+        "Pune":       (18.5195, 73.8503),
+        "Bengaluru":  (12.9586, 77.5695),
+        "Hyderabad":  (17.3885, 78.4764),
+        "Chennai":    (13.0951, 80.2550),
+        "Jaipur":     (26.9159, 75.7767),
+        "Lucknow":    (26.8496, 80.9469),
+        "Ahmedabad":  (23.0211, 72.5645),
+        "Indore":     (22.7313, 75.8495),
+        "Nagpur":     (21.1416, 79.0447),
+    }
+    _preset_rows = [list(_CITY_PRESETS.items())[i:i+3]
+                    for i in range(0, len(_CITY_PRESETS), 3)]
+    for _row in _preset_rows:
+        _cols = sb.columns(3)
+        for _ci, (_city, (_clat, _clon)) in enumerate(_row):
+            if _cols[_ci].button(_city, key=f"preset_{_city}", use_container_width=True):
+                st.session_state["preset_lat"] = _clat
+                st.session_state["preset_lon"] = _clon
+                st.session_state.pop("result", None)
+                st.rerun()
+
+    _default_lat = st.session_state.get("preset_lat", 23.2476)
+    _default_lon = st.session_state.get("preset_lon", 77.4182)
+    lat = sb.number_input("Latitude",  value=_default_lat, format="%.5f", step=0.001)
+    lon = sb.number_input("Longitude", value=_default_lon, format="%.5f", step=0.001)
+
+    # Invalidate cached result when coordinates change
+    if ("_prev_lat" not in st.session_state or
+            st.session_state["_prev_lat"] != lat or
+            st.session_state["_prev_lon"] != lon):
+        st.session_state.pop("result", None)
+    st.session_state["_prev_lat"] = lat
+    st.session_state["_prev_lon"] = lon
 
     sb.markdown('<p class="sidebar-section">🔋 Battery</p>', unsafe_allow_html=True)
     cap  = sb.number_input("Capacity (kWh)", 10.0, 150.0, 40.0, step=0.5)
@@ -423,6 +461,20 @@ with tab_rec:
             unsafe_allow_html=True,
         )
 
+    # ── No-stations-found warning ─────────────────────────────────────────────
+    if res["n_candidates"] == 0:
+        st.warning(
+            f"⚠️ No charging stations found within **{config.SEARCH_RADIUS_KM:.0f} km** of the "
+            "selected coordinates.  Try a different city using the preset buttons in the sidebar, "
+            "or manually enter coordinates of a city with stations (e.g. Bhopal 23.2476°N, 77.4182°E)."
+        )
+    elif res["n_reachable"] == 0 and res["n_candidates"] > 0:
+        st.warning(
+            f"⚠️ Found **{res['n_candidates']}** station(s) nearby, but none are reachable with "
+            f"current battery ({ev.soc}% SoC) and the **{reserve}% arrival reserve**. "
+            "Try lowering the Min SoC on arrival slider, or charge the vehicle more before searching."
+        )
+
     # ── MQTT status ───────────────────────────────────────────────────────────
     if "mqtt_status" in st.session_state:
         st.info(st.session_state["mqtt_status"])
@@ -446,8 +498,8 @@ with tab_rec:
     )
     c3.metric(
         "⏱ Charging Time",
-        f"{best.get('charging_time_min', 0):.0f} min" if best else "—",
-        delta=f"wait ~{best.get('wait_time_min', 0):.0f} min queue" if best else "",
+        f"{max(0.0, best.get('charging_time_min', 0)):.0f} min" if best else "—",
+        delta=f"wait ~{max(0.0, best.get('wait_time_min', 0)):.0f} min queue" if best else "",
         delta_color="inverse",
     )
     c4.metric(
@@ -677,6 +729,26 @@ with tab_forecast:
     st.caption(
         "Compare the Mathematical (Gaussian double-peak) forecaster against "
         "the trained Random-Forest baseline on a 24-hour window."
+    )
+
+    # ── Interpretation guide ──────────────────────────────────────────────────
+    st.info(
+        "**How to interpret this comparison**\n\n"
+        "- **Random Forest (ML):** Trained on 13,236 real EPFL Level-3 fast-charging sessions "
+        "collected in Switzerland. The reported **MAE** and **RMSE** measure how well the RF model "
+        "fits *historical session arrival patterns from that specific dataset* — not India-specific "
+        "EV traffic. Lower MAE/RMSE means a closer fit to those historical records. The model "
+        "generalises the temporal patterns (hour-of-day, day-of-week) to any new context.\n\n"
+        "- **Mathematical Double-Gaussian (Analytical):** A training-free formula that models "
+        "two daily rush-hour peaks — a morning commute peak (~8 AM) and an evening commute peak "
+        "(~6 PM) — with a weekend attenuation factor (0.65×) and a seasonal cosine envelope (±15%). "
+        "It requires no historical data, is always available, and captures general commute-driven "
+        "EV charging patterns analytically.\n\n"
+        "**How both feed into pricing:** Each forecaster produces a **load factor** "
+        "(clamped to 0.5–2.0×) that is passed into the **Erlang-C queue wait model** (station wait "
+        "time) and into the **exponential dynamic pricing** formula "
+        "P_dynamic = P_base × exp(λ × Load/Cap), which ultimately affects which station ranks "
+        "highest in the recommendation engine."
     )
 
     hrs = st.slider("Forecast horizon (hours)", 6, 72, 24, key="fc_hrs")
